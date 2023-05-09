@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\bin\Debug\net7.0\derived-class.exe
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\bin\Debug\net7.0\derived-class.deps.json
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\bin\Debug\net7.0\derived-class.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\bin\Debug\net7.0\derived-class.dll
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\bin\Debug\net7.0\derived-class.pdb
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.dll
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\refint\derived-class.dll
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.pdb
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\derived-class.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\derived-class\derived-class\obj\Debug\net7.0\ref\derived-class.dll
